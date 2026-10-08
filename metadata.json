@@ -1,0 +1,6 @@
+{
+  "name": "Mungli Ko'zlar - Interaktiv Adabiy Platforma",
+  "description": "Xudoyberdi To'xtaboyevning 'Mungli ko'zlar' asari va mumtoz axloqiy manbalar asosidagi interaktiv testlar, maqollar va so'z o'yinlari, lug'at va reyting tizimi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
